@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-title: changed text
+### This is a third-tier heading
 Use the left arrow to go back!
